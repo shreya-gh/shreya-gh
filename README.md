@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shreya-gh
+- 👋 Hi, I’m Shreya Guha
 - 👀 I’m interested in Data Analytics,Machine Learning and Natural Language Processing applications.
 - 🌱 I’m currently learning how to build advanced machine learning algorithms and data modelling principles.
 - 📫 How to reach me Linkedin:www.linkedin.com/in/shreya-guha-873a11265
